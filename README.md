@@ -1,3 +1,4 @@
+![image title](https://rushter.com/counter.svg)
 - 👋 Hi, I’m @neerajadhav
 - 👀 I’m interested in Computers
 - 🌱 I’m currently learning Engineering
