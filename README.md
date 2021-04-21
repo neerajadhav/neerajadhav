@@ -11,6 +11,7 @@
 - 💞️ I’m looking to collaborate on Open Source<br>
 - 📫 How to reach me adhavneeraj9500@gmail.com<br>
 <hr>
+<img src="https://github-readme-stats.vercel.app/api?username=YourUsername" />
 <img alt="visit counter" src="https://rushter.com/counter.svg" />
 <a href="https://youtube.com/channel/UCahNVXLKLGOZikByl7pSGBA">
   <img
