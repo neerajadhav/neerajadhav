@@ -12,6 +12,9 @@
 - 📫 How to reach me adhavneeraj9500@gmail.com<br>
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=neerajadhav" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekspopovic"
+/>
 <img alt="visit counter" src="https://rushter.com/counter.svg" />
 <a href="https://youtube.com/channel/UCahNVXLKLGOZikByl7pSGBA">
   <img
