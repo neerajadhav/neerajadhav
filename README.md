@@ -32,7 +32,7 @@
   />
 </a>
 <a href="https://dev.to/neerajadhav">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Neeraj Adhav's DEV Community Profile" height="30" width="30">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Neeraj Adhav's DEV Community Profile" height="30" width="100">
 </a>
 <!---
 neerajadhav/neerajadhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
