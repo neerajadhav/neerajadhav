@@ -10,7 +10,7 @@
 - 👀 I’m interested in Computers<br>
 - 🌱 I’m currently learning Engineering<br>
 - 💞️ I’m looking to collaborate on Open Source<br>
-- 📫 How to reach me adhavneeraj9500@gmail.com<br>
+- 📫 How to reach me <a href="mailto:adhavneeraj9500@gmail.com">G-Mail</a><br>
 <hr>
 <!--views counter <img alt="visit counter" src="https://rushter.com/counter.svg" />-->
 <a href="https://youtube.com/channel/UCahNVXLKLGOZikByl7pSGBA">
