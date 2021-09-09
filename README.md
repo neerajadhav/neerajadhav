@@ -14,9 +14,7 @@
 <hr>
 
 
-![Neeraj's GitHub Stats](https://github-readme-stats.kingthorin.vercel.app/api?username=neerajadhav&show_icons=true&include_all_commits=true)<br>
-![Quote](https://raw.githubusercontent.com/kingthorin/kingthorin/master/qotd.png)
-
+![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajadhav&show_icons=true&include_all_commits=true)<br>
 
 <!--views counter <img alt="visit counter" src="https://rushter.com/counter.svg" />-->
 
