@@ -19,5 +19,4 @@
  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/theneerajadhav)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/neeraj_adhav)
 
-<a href="https://app.daily.dev/neerajadhav"><img src="https://api.daily.dev/devcards/ec5e2a92da1f43db93ec0fdfeb72b1af.png?r=hvg" width="400" alt="Chris Bongers's Dev Card"/></a>
-
+<a href="https://app.daily.dev/neerajadhav"><img src="https://api.daily.dev/devcards/ec5e2a92da1f43db93ec0fdfeb72b1af.png?r=x4m" width="400" alt="Chris Bongers's Dev Card"/></a>
