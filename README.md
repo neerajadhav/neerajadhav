@@ -4,11 +4,11 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white "Python")
 
 ---
-- 👋 Hi, I’m @neerajadhav<br>
-- 👀 I’m interested in Computers<br>
-- 🌱 I’m currently learning Engineering<br>
-- 💞️ I’m looking to collaborate on Open Source<br>
-- 📫 How to reach me <a href="mailto:adhavneeraj9500@gmail.com">G-Mail</a><br>
+- I have two years of experience in web development and have been creating full-stack web applications using modern HTML, CSS, JavaScript and Python.
+
+- I've managed a project at a hackathon, and I work well with others. In addition to developing websites, I also design visuals and UI/UX.
+
+- I have a creative mind and a passion for developing user-friendly websites. In addition, I actively search out new technologies, enjoy reading and writing blog posts, and keep up with business trends and breakthroughs.
 ---
 
 
