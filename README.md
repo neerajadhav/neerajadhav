@@ -11,9 +11,4 @@
 - I have a creative mind and a passion for developing user-friendly websites. In addition, I actively search out new technologies, enjoy reading and writing blog posts, and keep up with business trends and breakthroughs.
 ---
 
-
- [![YouTube](https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/channel/UCahNVXLKLGOZikByl7pSGBA)
- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/theneerajadhav)
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/neeraj_adhav)
-
 <a href="https://app.daily.dev/neerajadhav"><img src="https://api.daily.dev/devcards/ec5e2a92da1f43db93ec0fdfeb72b1af.png?r=h76" width="400" alt="NeerajAdhav"/></a>
