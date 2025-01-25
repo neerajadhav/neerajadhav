@@ -33,3 +33,11 @@
 I share insights, tutorials, and more on my blog. Check it out below!
 
 [![Visit My Blog](https://img.shields.io/badge/Visit%20My%20Blog-2563EB?logo=hashnode&logoColor=white&style=for-the-badge)](https://yourhashnodebloglink.hashnode.dev)
+
+## 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajadhav&show_icons=true&theme=radical)
+
+## 🌐 Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajadhav&langs_count=10&theme=radical)
