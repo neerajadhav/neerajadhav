@@ -32,4 +32,4 @@
 ## 📖 Check out my Blog!
 I share insights, tutorials, and more on my blog. Check it out below!
 
-[![Visit My Blog](https://img.shields.io/badge/Visit%20My%20Blog-2563EB?logo=hashnode&logoColor=white&style=for-the-badge)](https://yourhashnodebloglink.hashnode.dev)
+[![Visit My Blog](https://img.shields.io/badge/Visit%20My%20Blog-2563EB?logo=hashnode&logoColor=white&style=for-the-badge)](https://neerajadhav.in)
